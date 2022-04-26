@@ -1,0 +1,2 @@
+# GestionTienda.API
+Prueba Técnica
